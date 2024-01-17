@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScheduleItems>
+	<ScheduleItem>
+		<Id>1</Id>
+		<ClassName>Class A</ClassName>
+		<WorkingSpaceCapacity>20</WorkingSpaceCapacity>
+		<User>John Doe</User>
+		<Teacher>Jane Smith</Teacher>
+		<FreeAccessTime>2020-09-01T08:00:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>2</Id>
+		<ClassName>Class B</ClassName>
+		<WorkingSpaceCapacity>30</WorkingSpaceCapacity>
+		<User>Michael Johnson</User>
+		<Teacher>Sarah Davis</Teacher>
+		<FreeAccessTime>2020-09-02T09:15:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>3</Id>
+		<ClassName>Class C</ClassName>
+		<WorkingSpaceCapacity>25</WorkingSpaceCapacity>
+		<User>Emily Thompson</User>
+		<Teacher>Aiden Anderson</Teacher>
+		<FreeAccessTime>2020-09-03T10:30:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>4</Id>
+		<ClassName>Class C</ClassName>
+		<WorkingSpaceCapacity>15</WorkingSpaceCapacity>
+		<User>Amy Anderson</User>
+		<Teacher>David Garcia</Teacher>
+		<FreeAccessTime>2020-09-04T11:45:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>5</Id>
+		<ClassName>Class C</ClassName>
+		<WorkingSpaceCapacity>18</WorkingSpaceCapacity>
+		<User>James Brown</User>
+		<Teacher>Laura Wilson</Teacher>
+		<FreeAccessTime>2020-09-05T13:00:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>6</Id>
+		<ClassName>Class A</ClassName>
+		<WorkingSpaceCapacity>22</WorkingSpaceCapacity>
+		<User>Ava Williams</User>
+		<Teacher>Aiden Anderson</Teacher>
+		<FreeAccessTime>2020-09-06T14:15:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>7</Id>
+		<ClassName>Class B</ClassName>
+		<WorkingSpaceCapacity>27</WorkingSpaceCapacity>
+		<User>Noah Lee</User>
+		<Teacher>Olivia Martinez</Teacher>
+		<FreeAccessTime>2020-09-07T15:30:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>8</Id>
+		<ClassName>Class B</ClassName>
+		<WorkingSpaceCapacity>24</WorkingSpaceCapacity>
+		<User>Ava Williams</User>
+		<Teacher>Aiden Anderson</Teacher>
+		<FreeAccessTime>2020-09-08T16:45:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>9</Id>
+		<ClassName>Class A</ClassName>
+		<WorkingSpaceCapacity>16</WorkingSpaceCapacity>
+		<User>Liam Harris</User>
+		<Teacher>Emma Thomas</Teacher>
+		<FreeAccessTime>2020-09-09T17:45:00</FreeAccessTime>
+	</ScheduleItem>
+	<ScheduleItem>
+		<Id>10</Id>
+		<ClassName>Class C</ClassName>
+		<WorkingSpaceCapacity>21</WorkingSpaceCapacity>
+		<User>Mia Garcia</User>
+		<Teacher>Aiden Anderson</Teacher>
+		<FreeAccessTime>2020-09-10T18:00:00</FreeAccessTime>
+	</ScheduleItem>
+</ScheduleItems>

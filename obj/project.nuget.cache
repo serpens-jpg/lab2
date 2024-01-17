@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "acDwlZ4RwRouwK4L+lLtiOAoSH7CdyGRDO3YfhN4Gq0Noh7MZdChrH+dtplDMCFLt2R4mSKjVoL51xvsd9wEOg==",
+  "success": true,
+  "projectFilePath": "C:\\Anything\\Code\\Python\\Work\\student\\8xml\\8xml\\8xml\\8xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\ver\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

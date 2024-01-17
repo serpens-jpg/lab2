@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScheduleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ScheduleItem>
+    <Id>3</Id>
+    <ClassName>Class C</ClassName>
+    <WorkingSpaceCapacity>25</WorkingSpaceCapacity>
+    <User>Emily Thompson</User>
+    <Teacher>Aiden Anderson</Teacher>
+    <FreeAccessTime>2020-09-03T10:30:00</FreeAccessTime>
+  </ScheduleItem>
+  <ScheduleItem>
+    <Id>10</Id>
+    <ClassName>Class C</ClassName>
+    <WorkingSpaceCapacity>21</WorkingSpaceCapacity>
+    <User>Mia Garcia</User>
+    <Teacher>Aiden Anderson</Teacher>
+    <FreeAccessTime>2020-09-10T18:00:00</FreeAccessTime>
+  </ScheduleItem>
+</ArrayOfScheduleItem>
